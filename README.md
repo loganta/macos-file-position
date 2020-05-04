@@ -10,7 +10,7 @@ file position macos config environtment
 
   Macintosh HD => usr/local/etc/nginx/sites-available
   
-## folder sites-available
+## folder sites-enabled
 
   Macintosh HD => usr/local/etc/nginx/sites-enabled
   
