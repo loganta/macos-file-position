@@ -18,6 +18,9 @@ file position macos config environtment
 
   Macintosh HD => usr/local/etc/php/7.2
   
+## command run magento 2
+  + setup:upgrade:
+    php -dmemory_limit=8G bin/magento set:up
 ## errors
 
   When met bug 404 not found site. Please change permission index.php file to 777 and var/pub/app
