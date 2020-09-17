@@ -14,6 +14,10 @@ file position macos config environtment
 
   Macintosh HD => usr/local/etc/nginx/sites-enabled
   
+## Run symlink file for folder 
+example:
+sudo ln -s /etc/nginx/sites-available/example.com /etc/nginx/sites-enabled/
+  
 ## PHP
 
   Macintosh HD => usr/local/etc/php/7.2
